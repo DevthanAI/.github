@@ -1,7 +1,9 @@
 # Welcome to Dev than AI 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ 앞으로 개발자의 역할은 무엇일까요?  
+인공지능은 사람보다 알고리즘, 데이터베이스, 웹개발 등을 빠르고 효과적으로 해냅니다.  
+그렇다면 개발자의 역할은 결국 문제를 발견하고, 그에 대한 재밌고 창의적인 해결방안을 코드로 내놓는 것입니다.  
+
+끊임없이 새로운 무언가를 만들어가고 싶습니다.  
+같이 즐겁게 협업해가고 싶습니다! 🙋‍♀️
+
