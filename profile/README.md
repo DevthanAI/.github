@@ -12,7 +12,7 @@
 
 1. 우울한 개인을 위한 NLP 기반 상호 음성 교류 챗봇  
 2. 상담, 치료, 약물 복용 습관을 유지하도록 도와주는 어플리케이션  
-https://github.com/DevthanAI/MentalHabitBack  
+https://github.com/DevthanAI/MentalHabitApp  
 
 3. 온라인상 개인정보 유출 정도를 알려주는/경고주는 어플리케이션/ 웹플랫폼  
 4. 온라인 커머스 리뷰 진위여부 판별해주는 웹 extension
