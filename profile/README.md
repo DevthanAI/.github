@@ -26,6 +26,7 @@ https://github.com/DevthanAI/NawykKotlin
 
 3. 온라인상 개인정보 유출 정도를 알려주는/경고주는 어플리케이션/ 웹플랫폼  
 Application that informs/ warns personal information leaks online.  
+https://github.com/DevthanAI/InfoLeak  
 
 4. 온라인 커머스 리뷰 진위여부 판별해주는 웹 extension.  
 Chrome extension that detects the validity of online commerce reviews.  
