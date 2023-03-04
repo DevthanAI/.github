@@ -21,7 +21,7 @@ NLP based STT & TTS chatbot with smooth live conversation features for depressed
  
 2. 상담, 치료, 약물 복용 습관을 유지하도록 도와주는 어플리케이션  
 App that helps individuals continue with their therapy, treatment, medication habits  
-https://github.com/DevthanAI/NawykBack
+https://github.com/DevthanAI/NawykBack  
 https://github.com/DevthanAI/NawykKotlin
 
 3. 온라인상 개인정보 유출 정도를 알려주는/경고주는 어플리케이션/ 웹플랫폼  
