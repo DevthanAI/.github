@@ -15,6 +15,7 @@ Let's cooperate and make something great! 🙋‍♀️
 ## 아이디어 목록 (List of ideas)  
 자유롭게 respository를 만들고, 이슈를 올립니다.  
 Feel free to make new repositories and add issues.  
+*Please note that some repositories are currently private.  
 
 1. 우울한 개인을 위한 NLP 기반 상호 음성 교류 챗봇.  
 NLP based STT & TTS chatbot with smooth live conversation features for depressed individuals.  
