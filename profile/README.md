@@ -31,3 +31,6 @@ https://github.com/DevthanAI/InfoLeak
 
 4. 온라인 커머스 리뷰 진위여부 판별해주는 웹 extension.  
 Chrome extension that detects the validity of online commerce reviews.  
+
+5. 감정쓰레기통/화풀이 어플리케이션
+Mobile application that allows users to rage and vent their feelings  
