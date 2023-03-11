@@ -34,3 +34,4 @@ Chrome extension that detects the validity of online commerce reviews.
 
 5. 감정쓰레기통/화풀이 어플리케이션  
 Mobile application that allows users to rage and vent their feelings  
+https://github.com/DevthanAI/VenterApp  
