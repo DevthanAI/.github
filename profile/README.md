@@ -35,4 +35,7 @@ Chrome extension that detects the validity of online commerce reviews.
 5. 감정쓰레기통/화풀이 어플리케이션  
 Mobile application that allows users to rage and vent their feelings  
 https://github.com/DevthanAI/VenterApp  
-https://github.com/DevthanAI/VenterBack  
+https://github.com/DevthanAI/VenterBack 
+
+6. 중요도를 분석하여 결정을 쉽게 내리게 해주는 웹페이지  
+Web app that makes decision making easy through importance analysis  
