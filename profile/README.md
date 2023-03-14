@@ -20,4 +20,4 @@ Let's cooperate and make something great! 🙋‍♀️
 Feel free to make new repositories and add issues.  
 *Please note that some repositories are currently private.  
 
-https://www.notion.so/soojlee0106/Brainstorming-dae82d73524547289ab9b9d4b6ebef95?pvs=4
+https://soojlee0106.notion.site/soojlee0106/Brainstorming-dae82d73524547289ab9b9d4b6ebef95
