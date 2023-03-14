@@ -1,5 +1,8 @@
 # Welcome to Dev than AI 👋
 
+<img width="1374" alt="Group 1" src="https://user-images.githubusercontent.com/104475739/225009984-a832c8ad-95eb-4dc5-8c83-65d48a20e6c3.png">
+
+
 🙋‍♀️ 앞으로 개발자의 역할은 무엇일까요?  
 인공지능은 사람보다 알고리즘, 데이터베이스, 웹개발 등을 빠르고 효과적으로 해냅니다.  
 그렇다면 개발자의 역할은 결국 문제를 발견하고, 그에 대한 재밌고 창의적인 해결방안을 코드로 내놓는 것입니다.  
