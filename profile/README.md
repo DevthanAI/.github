@@ -20,26 +20,4 @@ Let's cooperate and make something great! 🙋‍♀️
 Feel free to make new repositories and add issues.  
 *Please note that some repositories are currently private.  
 
-1. 우울한 개인을 위한 NLP 기반 상호 음성 교류 챗봇.  
-NLP based STT & TTS chatbot with smooth live conversation features for depressed individuals.  
- 
-2. 상담, 치료, 약물 복용 습관을 유지하도록 도와주는 어플리케이션  
-App that helps individuals continue with their therapy, treatment, medication habits  
-https://github.com/DevthanAI/NawykBack  
-https://github.com/DevthanAI/NawykKotlin
-
-3. 온라인상 개인정보 유출 정도를 알려주는/경고주는 어플리케이션/ 웹플랫폼  
-Application that informs/ warns personal information leaks online.  
-https://github.com/DevthanAI/InfoLeak  
-
-4. 온라인 커머스 리뷰 진위여부 판별해주는 웹 extension.  
-Chrome extension that detects the validity of online commerce reviews.  
-
-5. 감정쓰레기통/화풀이 어플리케이션  
-Mobile application that allows users to rage and vent their feelings  
-https://github.com/DevthanAI/VenterApp  
-https://github.com/DevthanAI/VenterBack 
-
-6. 중요도를 분석하여 결정을 쉽게 내리게 해주는 웹페이지  
-Web app that makes decision making easy through importance analysis  
-https://github.com/DevthanAI/DecisionMaker  
+https://www.notion.so/soojlee0106/Brainstorming-dae82d73524547289ab9b9d4b6ebef95?pvs=4
