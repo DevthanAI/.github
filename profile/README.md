@@ -13,7 +13,13 @@ Therefore, the role of developers is to find problems, and find fun and creative
 끊임없이 새로운 무언가를 만들어가고 싶습니다.  
 같이 즐겁게 협업해가고 싶습니다!  
 We want to make something new.  
-Let's cooperate and make something great! 🙋‍♀️
+Let's cooperate and make something great! 🙋‍♀️  
+
+## Regarding Copyright  
+We strive to be open-source.  
+Public repos are free to be shared and used for educational purposes.  
+Personally, I grew as a developer from open-source content.   
+This is how I'm giving back to the dev community!  
 
 ## 아이디어 목록 (List of ideas)  
 자유롭게 respository를 만들고, 이슈를 올립니다.  
